@@ -1,0 +1,12 @@
+Input first: 75
+Output first: 2
+
+Input second: 110
+Output second: 3
+
+Input third: 20
+Output third: 0
+
+Input fourth: 45
+Output fourth: 1
+

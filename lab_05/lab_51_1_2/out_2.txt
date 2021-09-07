@@ -1,0 +1,1 @@
+The amount of numbers more than average of max and min is 0

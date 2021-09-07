@@ -1,0 +1,1 @@
+The type of array size entered incorreclty.

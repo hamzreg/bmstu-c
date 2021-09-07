@@ -1,0 +1,12 @@
+Input first: 14 6 3
+Output first: 30.00000
+
+Input second: 2 6 0.5
+Output second: 12.12311
+
+Input third: 10 1 12
+Output third: 36.63201
+
+Input fourth: 6.4 3.5 1
+Output fourth: 13.42278
+

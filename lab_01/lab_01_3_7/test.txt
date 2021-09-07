@@ -1,0 +1,15 @@
+Input first: 1 0.00001
+
+Output first: 0.785405 0.785398 0.000007 0.000008
+
+
+Input second: 2
+Output second: The argument more than one
+Input third: a 
+Output third: 
+
+The type of argument entered incorrectly
+Input fourth: 1 2
+Output fourth: The epsilon more than one
+Input fifth: 1 b
+Output fifth: The type of epsilon entered incorrectly

@@ -1,0 +1,26 @@
+Input first: -5 -0.5 -3 0.5 7 5.5
+
+Output first: 1
+
+Input second: -7 -1.5 -1 1.5 0 1.6
+
+Output second: 2
+
+
+
+Input third: 1 2.5 5 4.5 -4 0.2
+Output third: 0
+
+Input fourth: a b 5 2 -3 0
+
+Output fourth: The coordinates of first line point entered incorrectly
+
+
+Input fifth: -5 -0.5 a b 
+Output fifth: The coordinates of second line point entered incorrectly
+
+Input sixth: 1 2.5 5 4.5 a b
+Output sixth: The coordinates of point entered incorrectly
+
+Input seventh: -7 -1.5 -7 -1.5
+Output seventh: The line does not exist

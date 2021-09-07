@@ -1,0 +1,18 @@
+Input first: 16 12
+
+Output first: 4
+
+
+
+Input second: 18 25
+
+Output second: 1
+
+
+
+Input third: 2.5 6
+
+Output third:Tne type of numbers entered incorrectly
+
+Input fourth: -2 3
+Output fourth: The numbers less than zero or equal zero

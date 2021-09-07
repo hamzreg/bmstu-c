@@ -1,0 +1,12 @@
+Input first: 168 87 106  
+Output first: 60.90000 37.55669
+
+Input second: 163.5 83 56.8
+Output second: 56.54375 21.24774
+
+Input third: 175.5 90.8 67.8
+Output third: 66.39750 22.01281
+
+Input fourth: 164 83.5 57.6
+Output fourth: 57.05833 21.41582
+
